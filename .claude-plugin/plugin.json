@@ -1,0 +1,9 @@
+{
+  "name": "cache-counter",
+  "version": "0.1.0",
+  "description": "Always-visible prompt-cache counter: minutes left on the cache, tokens read/written, and a warning when it expires",
+  "author": { "name": "jonysky2023" },
+  "license": "MIT",
+  "repository": "https://github.com/jonysky2023/claude-cache-session",
+  "types": "./types/index.d.ts"
+}

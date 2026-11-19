@@ -1,0 +1,5 @@
+{
+  "name": "claude-cache-session",
+  "owner": { "name": "jonysky2023" },
+  "plugins": [{ "name": "cache-counter", "source": "./" }]
+}
